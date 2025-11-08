@@ -34,6 +34,6 @@ The goal is to identify customers at risk of leaving and provide insights that c
 ---
 
 ## 🔗 Project Link
-[GitHub link here](https://github.com/Llinvile/Customer-Churn-Prediction/blob/main/Customer%20Churn%20Prediction%202020.ipynb)
+[GitHub link here](https://github.com/Llinvile/Customer-Churn-Prediction/blob/main/Customer%20Churn%20Prediction.ipynb)
 
 ---
