@@ -27,7 +27,7 @@ The goal is to identify customers at risk of leaving and provide insights that c
 ---
 
 ## ✅ Results
-- Achieved ROC-AUC score of [insert score].
+- Achieved ROC-AUC score of **0.9182 (91,82%)**.
 - Identified key churn drivers such as contract type, tenure, and monthly charges.
 - Demonstrated ability to handle class imbalance effectively.
 
