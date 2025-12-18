@@ -33,10 +33,10 @@ The dataset includes customer demographics, service usage, billing behaviour, an
 Explains **why** customers churn by comparing usage and billing behaviour between churned and retained customers.
 
 🔗 **View Dashboard:**  
-👉 _Insert Tableau Public link — Churn Drivers_
+👉 [Customer Churn Prediction Dashboard link here](https://public.tableau.com/app/profile/llinvile.de.jongh/viz/CustomerChurnPrediction_17638486458910/CustomerChurn)
 
 🖼️ **Preview:**  
-![Churn Drivers Dashboard](images/customer_churn_drivers.png)
+![Churn Drivers Dashboard](customer-churn.png)
 
 ---
 
@@ -44,10 +44,10 @@ Explains **why** customers churn by comparing usage and billing behaviour betwee
 Summarises **what a churn-risk customer looks like** using clear, finance-friendly KPIs.
 
 🔗 **View Dashboard:**  
-👉 _Insert Tableau Public link — KPI Summary_
+👉 [Customer Churn Prediction KPI Dashboard link here](https://public.tableau.com/app/profile/llinvile.de.jongh/viz/CustomerChurnPredictionKPIstats/KPIChurn)
 
 🖼️ **Preview:**  
-![KPI Churn Summary Dashboard](images/kpi_churn_summary.png)
+![KPI Churn Summary Dashboard](kpi-churn.png)
 
 ---
 
@@ -93,7 +93,10 @@ A concise, stakeholder-ready presentation covering:
   [GitHub link here](https://github.com/Llinvile/Customer-Churn-Prediction/blob/main/Customer%20Churn%20Prediction.ipynb)
 
 - 📊 **Tableau Dashboards:**  
-  _Insert Tableau links_
+  [Customer Churn Prediction link here](https://public.tableau.com/app/profile/llinvile.de.jongh/viz/CustomerChurnPrediction_17638486458910/CustomerChurn)
+  
+  [Customer Churn Prediction KPI link here](https://public.tableau.com/app/profile/llinvile.de.jongh/viz/CustomerChurnPredictionKPIstats/KPIChurn)
+
 
 - 📑 **Executive PowerPoint Report:**  
   _Insert PowerPoint link_
